@@ -1,0 +1,1 @@
+Einfache Whitelist für Pihole
