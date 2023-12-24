@@ -1,6 +1,14 @@
-# My Adguard Home whitelist
-#Adguard DNS
+# Title: tobasium -- Adguard Whitelist
+# 
+# Issue tracker: https://github.com/tobasium/adguard-whitelist/
+# Homepage: https://github.com/tobasium/adguard-whitelist/
+# Description: Whitelist
+# Version: 20231224
+# 
+#
 @@||106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
+@@||avs-alexa-14-eu.amazon.com
+@@||web.diagnostic.networking.aws.dev
 @@||aan.amazon-adsystem.com
 @@||aan.amazon.co.jp
 @@||aan.amazon.co.uk
