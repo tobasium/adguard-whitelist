@@ -348,3 +348,4 @@
 @@||z-na.amazon-adsystem.com
 @@||znaptag-us.s3.amazonaws.com
 @@||my.sharepoint.com
+@@||api.getbring.com
