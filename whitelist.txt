@@ -349,3 +349,5 @@
 @@||znaptag-us.s3.amazonaws.com
 @@||my.sharepoint.com
 @@||api.getbring.com
+@@||rapidgator.net
+@@||mygully.com
